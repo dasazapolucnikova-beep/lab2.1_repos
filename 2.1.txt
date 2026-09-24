@@ -1,0 +1,6 @@
+﻿Build started at 8:44...
+1>------ Build started: Project: Project2.1, Configuration: Debug x64 ------
+1>  Project2.1.cpp
+1>  Project2.1.vcxproj -> C:\Users\Daria\source\repos\Project2.1\x64\Debug\Project2.1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:44 and took 01,653 seconds ==========
